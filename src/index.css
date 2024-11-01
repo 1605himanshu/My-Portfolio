@@ -56,6 +56,7 @@ a {
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
   margin-bottom: 15px;
+  margin-top: 25px;
 }
 
 .home .right .img img {
@@ -64,6 +65,9 @@ a {
   border: 5px solid yellow;
   border-radius: 100%;
   animation: superman 3s infinite;
+  margin-right: 50px;
+  margin-top: 25px;
+  
 }
 root {
   --box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);

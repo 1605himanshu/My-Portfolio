@@ -8,7 +8,8 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section about">
             <h3>Himanshu Yadav</h3>
-            <p>&copy; 2024 All rights reserved.</p>
+            <p>Mobile : +91 7309089753</p>
+              <p>&copy; 2024 All rights reserved.</p>
           </div>
           <div className="footer-section links">
             <h4>Quick Links</h4>
